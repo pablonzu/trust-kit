@@ -73,7 +73,7 @@ This folder is meant to be pushed as a **public** repo (e.g. `byhubo/trust-kit`)
 # From monorepo root — one-time setup
 cp -r open /tmp/trust-kit && cd /tmp/trust-kit
 git init && git add . && git commit -m "Trust kit templates for micro-SaaS procurement"
-gh repo create byhubo/trust-kit --public --source=. --push
+gh repo create YOUR_ORG/trust-kit --public --source=. --push
 ```
 
 Add GitHub topics: `saas`, `gdpr`, `dpa`, `clerk`, `stripe`, `vercel`, `compliance`, `trust-center`.
