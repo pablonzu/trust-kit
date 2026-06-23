@@ -1,7 +1,8 @@
 # Clerk + Stripe + Vercel — subprocessor list starter
 
-Use this checklist when an EU buyer asks who processes data on your behalf.  
-**Faster:** [ByHubo ProcureKit](https://byhubo.com) toggles these presets and publishes a live Trust Page in one sitting.
+> **Free forever shortcut:** [Publish a live Trust Page](https://app.byhubo.com/sign-up?utm_source=github&utm_medium=trust-kit&utm_campaign=subprocessors-doc) with these presets pre-filled — no credit card. [See example →](https://trust.byhubo.com/byhubo?utm_source=github&utm_medium=trust-kit&utm_campaign=example)
+
+Use this checklist when an EU buyer asks who processes data on your behalf.
 
 | Subprocessor | Purpose | Location | DPA |
 |--------------|---------|----------|-----|
@@ -28,9 +29,14 @@ Use this checklist when an EU buyer asks who processes data on your behalf.
 3. **Privacy policy** aligned with the table  
 4. **Security contact** — email on the trust page  
 
-## Publish instead of maintaining this file
+---
 
-→ https://app.byhubo.com/sign-up  
-→ Live example: https://trust.byhubo.com/byhubo
+## Skip the spreadsheet
+
+Maintaining this table in Notion goes stale when you add PostHog or swap auth.
+
+**[ByHubo ProcureKit](https://byhubo.com?utm_source=github&utm_medium=trust-kit&utm_campaign=subprocessors-bottom)** — toggle your stack, publish `trust.byhubo.com/you`, **free forever**.
+
+→ **[Create your free Trust Page](https://app.byhubo.com/sign-up?utm_source=github&utm_medium=trust-kit&utm_campaign=subprocessors-cta)**
 
 _Not legal advice._

@@ -1,5 +1,7 @@
 # Procurement reply — email template
 
+> **Don't have a trust URL yet?** [Create one free forever](https://app.byhubo.com/sign-up?utm_source=github&utm_medium=trust-kit&utm_campaign=email-doc) — takes one sitting. [Live example →](https://trust.byhubo.com/byhubo?utm_source=github&utm_medium=trust-kit&utm_campaign=example)
+
 Copy, fill in `[brackets]`, send when a buyer asks for DPA / subprocessors / security docs.
 
 ---
@@ -28,9 +30,13 @@ Best,
 
 ---
 
-## Generate your link (free)
+## Get your link (free forever)
 
-[ByHubo ProcureKit](https://byhubo.com) — presets for Clerk, Stripe, Vercel, and the indie stack.  
-Sign up: https://app.byhubo.com/sign-up
+1. **[Sign up free](https://app.byhubo.com/sign-up?utm_source=github&utm_medium=trust-kit&utm_campaign=email-steps)** — no credit card  
+2. Toggle Clerk, Stripe, Vercel (and whatever else you use)  
+3. Publish → copy `trust.byhubo.com/your-slug`  
+4. Paste into the email above  
+
+**[ByHubo ProcureKit](https://byhubo.com?utm_source=github&utm_medium=trust-kit&utm_campaign=email-bottom)** — procurement unblock for micro-SaaS. Free Trust Page forever; pay only when you need custom domain or e-sign.
 
 _Not legal advice._
