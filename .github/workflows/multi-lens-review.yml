@@ -1,0 +1,16 @@
+# Copy to .github/workflows/multi-lens-review.yml in any pablonzu repo
+# (or this repo's install script will add it).
+name: Multi-lens code review
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  review:
+    uses: pablonzu/code-review-lens/.github/workflows/multi-lens-review.yml@main
+    secrets: inherit
